@@ -1,0 +1,157 @@
+{
+  "basics": {
+    "name": "VictorLi",
+    "label": "Senior Software Engineer",
+    "picture": "",
+    "email": "yuanyuan.li85@gmail.com",
+    "phone": "(86) 159-2158-9231",
+    "website": "https://github.com/yuanyuanli85",
+    "summary": "Victor is a software engineer, quicker learner, passionate about using deeplearning to create something interesting!",
+    "location": {
+      "address": "788 JinPin Road",
+      "city": "Shanghai",
+      "countryCode": "China",
+      "region": "Shanghai"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "yuanyuanli85",
+        "url": "https://github.com/yuanyuanli85"
+      },
+      {
+        "network": "Kaggle (Competitions Expert)",
+        "username": "victorli",
+        "url": "https://www.kaggle.com/victorli"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Intel",
+      "position": "Computer Vision Engineer",
+      "startDate": "2016-06-01",
+      "endDate": "2017-10-01",
+      "summary": "Use deeplearning technologies to solve real problems.",
+      "highlights": [
+        "Led an innovation project <Virtual Fitness Coach Powered by AI > incubated by China I2R",
+        "Key developer for chip defects detection in Intel Factory",
+        "Kaggle Competitions Expert (Top5% Ultrasound Never Segmentation and Top8% State Farm Distracted Driver Detection) "
+      ]
+    },
+    {
+      "company": "Intel",
+      "position": "Senior Graphics Software Engineer",
+      "startDate": "2011-04-01",
+      "endDate": "2016-06-01",
+      "summary": "Worked as a GPGPU (MDF) SDK runtime developer for Intel integrated GPU (from SandyBridge to SkyLake)",
+      "highlights": [
+        "Runtime and User Mode Graphics driver development on multiple maintstream OSes (Linux and Windows)",
+        "Optimized resource management and cross-layer code refactoring",
+        "Cut off 80% validation time by using virutalization technology"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "ZheJiang University",
+      "area": "Communication Engineering",
+      "studyType": "Master",
+      "startDate": "2011-03-01",
+      "endDate": "2008-06-01",
+      "courses": [
+        "Wireless Sensor Network",
+        "MAC(Media Access Control) Protocol"
+      ]
+    },
+    {
+      "institution": "ZheJiang University",
+      "area": "Electronic Information Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2002-08-01",
+      "endDate": "2006-06-01",
+      "courses": [
+        "Network ",
+        "C Programing Language"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Facilitating Efficient Communication and Data Processing in Heterogeneous Computing Environment in a Heterogeneous Computing Environment",
+      "releaseDate": "2015-12-24",
+      "website": "WO/2017/107118",
+      "summary": "A mechanism is described for facilitating efficient communication and data processing across clusters of computing machines in a heterogeneous computing environment."
+    },
+    {
+      "name": "Event-driven Framework for GPU Programing",
+      "releaseDate": "2017-06-29",
+      "website": "WO/2017/107168",
+      "summary": "Event-driven logic receives a signal that indicates detection of an event by a device. Memory stores information corresponding to a kernel that is to be associated with the event. The event-driven logic causes a Graphics Processing Unit (GPU) to execute the kernel to process one or more operations in response to the event."
+    },
+    {
+      "name": "Graphics Processing Unit Operation",
+      "releaseDate": "2017-06-29",
+      "website": "WO/2017/112403",
+      "summary": "A system and method for distributed computing including a compute node having a graphics processing unit (GPU) to execute tasks of a distributed computing job. A distributed-computing programming framework executes the tasks on the compute node. A GPU-daemon process shares GPU resources between the tasks executing on the GPU of the compute node."
+    },
+    {
+      "name": "GPU-CPU TWO-PATH Memory Copy ",
+      "releaseDate": "30.03.2017",
+      "website": "WO/2017/049583",
+      "summary": "Methods and apparatus relating to GPU-CPU (Graphics Processing Unit-Central Processing Unit) two-path memory copy are described. In an embodiment, a Graphics Processing Unit (GPU) copies at least a first portion of a data block from a source to a buffer. The GPU also copies a second portion of the data block from the source to a destination. A Central Processing Unit (CPU) copies the first portion of the data block from the first buffer to one or more corresponding locations in the destination. Other embodiments are also disclosed and claimed."
+    },
+    {
+      "name": "Method and Apparatus to Improve Shared Memory Efficiency",
+      "releaseDate": "30.03.2017",
+      "website": "WO/2017/049592",
+      "summary": "Methods and apparatus to improve shared memory efficiency are described. In an embodiment, a first version of a code to access one or more registers as shared local memory is compiled. A second version of the same code is also compiled to access a cache as the shared local memory. The first version of the code is executed in response to comparison of a work group size of the code with a threshold value."
+    },
+    {
+      "name": "Apparatus and Method to Improve Memory Access Performance Between Shared Local Memory and System Global Memory ",
+      "releaseDate": "16.06.2016",
+      "website": "WO/2016/090536",
+      "summary": "Described is a machine-readable storage medium having instructions stored thereon, that when executed, cause a processor to perform a method which comprises: grouping two or more work groups to form a super-workgroup; and partitioning a portion of a memory space into one or more super-shared local memories (Super-SLMs), wherein the memory space shared within the super-workgroup forms at least one Super-SLM of the one or more Super-SLMs. Described is an apparatus which comprises: a plurality of execution units; a cache memory having a portion characterized as a SLM which is shared with the plurality of execution units at least one of which is to operate on a work group of a sub-slice, wherein the SLM is shared within the work group; and at least one Super-SLM for providing shared memory accessible by different work groups in the sub-slice, wherein the at least one of the execution units is to operate on the different work groups."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Computer Vision",
+      "level": "Master",
+      "keywords": [
+        "Convolutional Neural Network",
+        "Human Pose Estimation",
+        "Product Defects Detection in Manufacture"
+      ]
+    },
+    {
+      "name": "Graphics Runtime Development",
+      "level": "Master",
+      "keywords": [
+        "Resource Management",
+        "Knowlegde on Graphics Subsystem on Windows(DX9/DX11)",
+        "Graphics software stack on Linux (Libva)"
+      ]
+    },
+    {
+      "name": "Programing Languages and Tools",
+      "level": "Master",
+      "keywords": [
+        "C/C++",
+        "Python",
+        "Keras",
+        "Caffe"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency":  "Fluent"
+    },
+    {
+      "language": "Mandarin",
+      "fluency": "Native Speaker"
+    }
+  ]
+}
