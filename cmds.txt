@@ -1,2 +1,0 @@
-#commands
-resume export AboutMe.html -r resume.json -t elegant --format html
