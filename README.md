@@ -1,6 +1,5 @@
 # VictorLi(李源源)
 ## Contact
-* WWID: 11340577
 * Email: [yuanyuan.li85@gmail.com](mailto:yuanyuan.li85@gmail.com)
 * Website: [https://github.com/yuanyuanli85](https://github.com/yuanyuanli85)
 * Phone: (86) 159-2158-9231
