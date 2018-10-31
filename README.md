@@ -74,13 +74,13 @@ Victor is a software engineer, quicker learner, passionate about using deep lear
 * C Programing Language
 
 ## Patents
-* [Facilitating Efficient Communication and Data Processing in Heterogeneous Computing Environment in a Heterogeneous Computing Environment](WO/2017/107118)
-* [Event-driven Framework for GPU Programing](WO/2017/107168)
-* [Graphics Processing Unit Operation](WO/2017/112403)
-* [GPU-CPU TWO-PATH Memory Copy ](WO/2017/049583)
-* [Method and Apparatus to Improve Shared Memory Efficiency](WO/2017/049592)
-* [Apparatus and Method to Improve Memory Access Performance Between Shared Local Memory and System Global Memory ](WO/2016/090536)
-
+* [Facilitating Efficient Communication and Data Processing in Heterogeneous Computing Environment in a Heterogeneous Computing Environment](https://patentscope.wipo.int/search/zh/detail.jsf?docId=WO2017107118)
+* [Event-driven Framework for GPU Programing](https://patentscope.wipo.int/search/zh/detail.jsf?docId=WO2017107168)
+* [Graphics Processing Unit Operation](https://patentscope.wipo.int/search/zh/detail.jsf?docId=WO2017112403)
+* [GPU-CPU TWO-PATH Memory Copy ](https://patentscope.wipo.int/search/zh/detail.jsf?docId=WO2017049583)
+* [Method and Apparatus to Improve Shared Memory Efficiency](https://patentscope.wipo.int/search/zh/detail.jsf?docId=WO2018176435)
+* [Apparatus and Method to Improve Memory Access Performance Between Shared Local Memory and System Global Memory ](https://patentscope.wipo.int/search/zh/detail.jsf?docId=CN203389528)
+* [SYSTEM AND METHOD TO ACCELERATE REDUCE OPERATIONS IN GRAPHICS PROCESSOR](https://patentscope.wipo.int/search/zh/detail.jsf?docId=WO2017166269)
 ## Languages
 * Fluent in English
 * Native Speaker in Mandarin
